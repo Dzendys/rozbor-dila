@@ -4,7 +4,7 @@ Zatím je rozšíření ve fázi vývoje, instalace je tedy neoficiální cestou
 
 **Jak to funguje?**
 - Jedná se o custom Chrome extention neboli rozšíření, které umožňuje odblokování ukládání stránky jako PDF.
-- Při nainstalovaném rozšíření se automaticky spustí na stránce "rozbor-dila.cz" a umožní po kliknutí na tlačítko "Stáhnout materiál" uložení do souboru PDF (tisk).
+- Při nainstalovaném rozšíření se automaticky spustí na stránce začínající [rozbor-dila.cz](https://rozbor-dila.cz/) a umožní po kliknutí na tlačítko "Stáhnout materiál" uložení do souboru PDF (tisk).
 
 **Jak si můžu stáhnout toto rozšíření?**
 - Stáhni si zdrojový kód v zipu [zde](https://github.com/Dzendys/rozbor-dila/archive/refs/heads/main.zip).
