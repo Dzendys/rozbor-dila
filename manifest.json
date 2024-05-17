@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Rozbor-díla premium",
     "version": "1.0",
-    "description": "Umožňuje ukládat studijní materiály",
+    "description": "Umožňuje ukládat stránku jako PDF soubor, skrývá rušící bannery okolo a maže zbytečné mezery v článku.",
     "permissions": [
       "activeTab",
       "scripting"
