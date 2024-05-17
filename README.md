@@ -1,2 +1,2 @@
-# rozbor-dila
+# Rozbor-díla.cz premium
 Umožňuje ukládat stránku jako pdf
