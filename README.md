@@ -8,9 +8,9 @@ Zatím je rozšíření ve fázi vývoje, instalace je tedy neoficiální cestou
 
 **Jak si můžu stáhnout toto rozšíření?**
 - Stáhni si zdrojový kód v zipu [zde](https://github.com/Dzendys/rozbor-dila/archive/refs/heads/main.zip).
-- Vyextrahuješ si stáhlý soubor a měl bys mít složku se třemi soubory: "content.js", "manifest.json" a "README.md".
-- V Google Chromu vlezeš do knihovny svých [rozšíření](chrome://extensions/) a vpravo nahoře povolíš "Režim pro vývojáře".
-- Vlevo nahoře se ti otevře lišta a klikneš na "Načíst rozbalené" a vybereš složku se soubory.
+- Vyextrahuješ si stáhlý soubor a měl bys mít složku se třemi soubory: "_content.js_", "_manifest.json_" a "_README.md_".
+- V Google Chromu vlezeš do knihovny svých [rozšíření](chrome://extensions/) a vpravo nahoře povolíš "_Režim pro vývojáře_".
+- Vlevo nahoře se ti otevře lišta a klikneš na "_Načíst rozbalené_" a vybereš složku se soubory.
 - Rozšíření je nainstalované.
 
 **Je to bezpečné?**
@@ -20,7 +20,7 @@ Zatím je rozšíření ve fázi vývoje, instalace je tedy neoficiální cestou
 - Rozšíření je určené především pro Windows uživatele Google Chromu.
 
 **Rozšíření mi nefunguje, co mám dělat?**
-- Kontaktuj mě na discordu @dzendys_ a vyřešíme to :)
+- Kontaktuj mě na discordu **@dzendys_** a vyřešíme to :)
 
 **Jsou v plánu další funkce?**
 - Možná, ale v nedohlednu.
