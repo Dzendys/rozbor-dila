@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Rozbor-díla premium",
+    "version": "1.0",
+    "description": "Umožňuje ukládat studijní materiály",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["https://rozbor-dila.cz/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
